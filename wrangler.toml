@@ -1,3 +1,3 @@
 name = "npn"
-compatibility_date = "2025-08-03"
+compatibility_date = "2025-08-01"
 main = "_worker.js"
